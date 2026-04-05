@@ -1,1 +1,0 @@
-...UDim2.new(FramePos.X.Offset, FramePos.Y.Offset + Delta.Y)
